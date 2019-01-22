@@ -1,4 +1,4 @@
-package fr.istic;
+package fr.istic.morphia;
 
 import static org.junit.Assert.assertTrue;
 

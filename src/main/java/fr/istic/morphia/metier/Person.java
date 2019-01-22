@@ -1,4 +1,4 @@
-package fr.istic.metier;
+package fr.istic.morphia.metier;
 
 import org.bson.types.ObjectId;
 import org.mongodb.morphia.annotations.Embedded;

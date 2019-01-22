@@ -1,6 +1,6 @@
-package fr.istic;
+package fr.istic.morphia;
 
-import fr.istic.metier.*;
+import fr.istic.morphia.metier.*;
 
 import com.mongodb.MongoClient;
 import org.mongodb.morphia.Datastore;
